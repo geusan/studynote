@@ -10,8 +10,6 @@
 기본으로 사용하던 구조에서 그대로 쓰면 된다.
 여기서 데이터베이스를 추가해보자
 
-
-
 데이터 베이스 인스턴스 가져오기
 ```javascript
 var database = firebase.database();
